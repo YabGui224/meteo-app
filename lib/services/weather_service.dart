@@ -7,7 +7,7 @@ import '../models/forecast.dart';
 class WeatherService {
   // TODO: Replace with your OpenWeatherMap API key
   // Get your free API key at: https://openweathermap.org/api
-  static const String _apiKey = '4ed441242819e09fdc5c879c473584b3';
+  static const String _apiKey = 'your-api_key';
   static const String _baseUrl = 'https://api.openweathermap.org/data/2.5';
 
   /// Fetch current weather for a city
